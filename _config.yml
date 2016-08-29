@@ -1,7 +1,7 @@
-title: miamo memo
-description: つらつら書いていく
-author: miamo
-github: https://github.com/ymiyamo
+title: kana namo
+description: 
+author: kanakana?
+github: https://github.com/kananakai
 about: I am the infrastructure engineers. Which primarily operation of certain vendor cloud infrastructure.
 disqus_shortname: 
 google_analytics: 
@@ -16,7 +16,7 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "https://ja-jp.facebook.com/people/Yuu-Miyamoto/100009957101087"
+      link: "https://m.facebook.com/kana.nakai.77"
 #    - icon: fa-skype
 #      link: "#"
 #    - icon: fa-twitter
@@ -28,7 +28,7 @@ social:
 
 share:
   twitter_username: 
-  fb_appid: 100009957101087
+  fb_appid: 
 
 urls:
     - text: About Me
@@ -40,7 +40,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://ymiyamo.github.io"
+url: "https://kananakai.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
